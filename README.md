@@ -6,5 +6,4 @@ The application has 2 screens one to capture the results, another to display the
 ![](images/page2.png)
 
 # Result Screen
-![](images/page1.png
-
+![](images/page1.png)
